@@ -67,17 +67,17 @@ These projects showcase my capability to build and maintain **secure, scalable, 
 
 ---
 
-## 🎓 Education & Training
+<details>
+<summary>🎓 Education & Certifications</summary>
 
 * **Master of Science - Artificial Intelligence** (2025 - Present)
-    * *Brandenburgische Technische Universität Cottbus-Senftenberg, Germany*
+  * *BTU Cottbus, Germany*
 * **Bachelor of Science - Computer Science** (2017 - 2021)
-    * *University of Engineering and Technology - Lahore, Pakistan*
-* **Google Cloud Training** (Jan 2021 - Apr 2021)
-    * Gained skill badges in Computing, Application Development, Big Data, and Machine Learning on Qwiklabs.
-* **Udemy Course: React Native - The Practical Guide** (July 2020)
-    * Hands-on experience in building cross-platform mobile apps, including state management, API integration, and deployment best practices.
-* **Hacktoberfest Contributor** (Oct 2020, 2021, 2022)
-    * Active participation in the annual worldwide event, contributing to open-source repositories via pull requests.
+  * *UET Lahore, Pakistan*
+* **Certifications:**
+  * Google Cloud Training (Qwiklabs)
+  * React Native Practical Guide (Udemy)
+  * Hacktoberfest Contributor (2020–2022)
+</details>
 
 ---
