@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Salman Khan (Salz)
+# Hi there 👋, I'm Sulaman Khan (Salz)
 
 ## 🚀 Consultant Software Engineer | Full-Stack Developer & AI Enthusiast
 
@@ -15,7 +15,7 @@ My core focus is delivering **clean, scalable, and secure code** while leveragin
 | **LinkedIn** | [Connect with me on LinkedIn](https://www.linkedin.com/in/salman-khan-1254761b5/) |
 | **Portfolio Site** | [View my Professional Portfolio](https://singular-gingersnap-f2c759.netlify.app/) |
 | **Email** | sulamankhan54425@gmail.com |
-| **GitHub** | [github.com/YourGitHubUsername] | 
+| **GitHub** | [https://github.com/suleman2244] | 
 
 ---
 
