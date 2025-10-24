@@ -1,5 +1,9 @@
 # Hi there 👋, I'm Sulaman Khan (Salz)
-
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AzureAD](https://img.shields.io/badge/Azure%20AD-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Germany](https://img.shields.io/badge/Based%20in-Germany-black?style=for-the-badge)
 ## 🚀 Consultant Software Engineer | Full-Stack Developer & AI Enthusiast
 
 I am a highly driven **Consultant Software Engineer** and **Master's student in Artificial Intelligence** based in Cottbus, Germany. With over **4 years of enterprise-level development experience**—specializing in **Flutter, React Native, Java/Spring Boot, and scalable Frontend architecture**—I architect and deploy reliable, high-traffic applications, including large-scale **Fintech** and **Government** solutions used by millions.
