@@ -1,10 +1,13 @@
 # Hi there 👋, I'm Sulaman Khan (Salz)
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Germany](https://img.shields.io/badge/Based%20in-Germany-black?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Based%20in-Germany-black?style=for-the-badge" />
+</p>
+
 ## 🚀 Consultant Software Engineer | Full-Stack Developer & AI Enthusiast
 
 I am a highly driven **Consultant Software Engineer** and **Master's student in Artificial Intelligence** based in Cottbus, Germany. With over **4 years of enterprise-level development experience**—specializing in **Flutter, React Native, Java/Spring Boot, and scalable Frontend architecture**—I architect and deploy reliable, high-traffic applications, including large-scale **Fintech** and **Government** solutions used by millions.
