@@ -1,49 +1,137 @@
-# 🚀 Hi there, I'm Sulaman! <img src="https://media.giphy.com/media/hvRJCLFzcasr6/giphy.gif" width="30px">
+<div align="center">
 
-### **Senior Full-Stack Engineer | Founding Developer | AI Enthusiast**
-**Based in Berlin, Germany 🇩🇪**
+# Sulaman Khan
 
-I am a technical architect specializing in high-scale systems (50M+ users), zero-to-one product development, and Agentic AI workflows. I pivot between **Mobile (Flutter, React Native)** and **Web (React, Angular, Next.js)** to build cross-platform excellence.
+**Senior Full-Stack Engineer · Technical Architect · Berlin, Germany 🇩🇪**
 
----
+Building high-scale systems trusted by **50M+ users** across FinTech, HealthTech, and AI.
 
-### 🛠️ Technical Mastery
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salman-khan-1254761b5/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://job-agent-pro.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sulamankhan54425@gmail.com)
 
-| **Category** | **Technologies & Tools** |
-| :--- | :--- |
-| **Mobile** | Flutter, React Native, Kotlin, Java, Jetpack Compose, Ionic |
-| **Web** | React, Next.js, Angular, Vue.js, TypeScript, JavaScript |
-| **Backend & Infra** | Node.js, Python, Java Spring, AWS, Azure, CI/CD, SQL |
-| **AI & Agents** | LangGraph, Agentic Workflows, LLM Infrastructure, Cursor |
+</div>
 
 ---
 
-### 📊 My GitHub Impact
+### About
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=suleman2244&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suleman2244&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
-</p>
+I'm a software engineer with **4+ years** of experience building products from zero to scale. My work spans **mobile** (Flutter, React Native) and **web** (React, Next.js, Angular) — with deep experience in **FinTech**, **HealthTech**, and **AI-powered systems**.
 
----
+I've led engineering efforts on apps used by **50M+ users** (JazzCash) and **5M+ users** (myABL), built enterprise platforms from scratch, and recently shipped an **autonomous AI agent** for job discovery using Python and agentic workflows.
 
-### 🔥 Flagship Projects
-
-- **[JazzCash Case Study](https://github.com/suleman2244/jazzcash-case-study)**: Powering Pakistan's \#1 Digital Wallet (50M+ users). Focus on scale and performance.
-- **[JobAgent Pro](https://github.com/suleman2244/job-agent-pro)**: An autonomous AI Growth Engine built with LangGraph and Python.
-- **[Stitch AI](https://github.com/suleman2244/stitch-ai-case-study)**: Transforming NLP instructions into visual interactive design workflows.
-- **[myABL](https://github.com/suleman2244/my-abl-mobile-app)**: FinTech innovation for 5M+ active banking users.
+**What I bring to the table:**
+- 🏗️ Architected mobile + web platforms at massive scale (JazzCash, myABL)
+- 🚀 Zero-to-one product builder — from concept to production
+- 🤖 Building with AI/LLM — agentic workflows, intelligent automation
+- 🔧 Full ownership mindset — I ship, deploy, monitor, and iterate
 
 ---
 
-### 📫 Connect with me:
+### Tech Stack
 
-<p align="left">
-<a href="https://linkedin.com/in/sulaman-khan-1254761b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="mailto:sulamankhan54425@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" height="30" width="30" /></a>
-<a href="https://dashing-centaur-150fb3.netlify.app/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/web.png" alt="Portfolio" height="30" width="30" /></a>
-</p>
+<div align="center">
+
+**Frontend & Mobile**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend & Infrastructure**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**AI & Tooling**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+</div>
 
 ---
 
-*“I don’t just write code; I build systems that write and test code with me.”*
+### Featured Work
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🏦 [JazzCash — Pakistan's #1 Digital Wallet](https://github.com/suleman2244/jazzcash-case-study)
+Led native mobile development (Android/iOS) for the country's largest digital wallet serving **50M+ users**. Architected offline-first payments, biometric auth, and real-time transaction processing.
+
+`Kotlin` `Swift` `Java` `REST APIs` `Biometric Auth`
+
+</td>
+<td width="50%">
+
+#### 🤖 [JobAgent Pro — AI-Powered Job Discovery](https://github.com/suleman2244/job-agent-pro)
+Autonomous AI agent that scrapes, analyzes, and ranks job opportunities using agentic workflows. Full-stack: React frontend + FastAPI backend, deployed on Vercel.
+
+`Python` `FastAPI` `React` `Playwright` `AI Agents`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🏦 [myABL — Digital Banking for 5M+ Users](https://github.com/suleman2244/my-abl-mobile-app)
+Core contributor to Allied Bank's mobile banking platform. Implemented secure transaction flows, real-time notifications, and biometric authentication for millions of daily active users.
+
+`Flutter` `Dart` `BLoC` `REST APIs` `FinTech`
+
+</td>
+<td width="50%">
+
+#### 🧠 [Stitch AI — NLP-to-Design Workflows](https://github.com/suleman2244/stitch-ai-case-study)
+Enterprise AI chatbot that transforms natural language instructions into interactive visual design workflows. Built with Flutter, Riverpod, and Azure AD integration.
+
+`Flutter` `Riverpod` `Azure AD` `NLP` `Enterprise`
+
+</td>
+</tr>
+</table>
+
+---
+
+### Engineering Philosophy
+
+```
+→ Ship fast, learn faster. I believe in tight feedback loops and iterating in production.
+→ Own the outcome. I don't stop at code — I care about the user experience, the metrics, and the business impact.
+→ Build for scale. Every system I design is built to handle 10x the current load.
+→ Automate everything. If I'm doing it twice, I'm writing a script.
+```
+
+---
+
+### GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=suleman2244&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+*Currently open to senior full-stack and founding engineer roles in Berlin or remote.*
+
+**Let's build something extraordinary.**
+
+</div>
