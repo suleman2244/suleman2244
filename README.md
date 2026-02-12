@@ -18,7 +18,7 @@ Building high-scale systems trusted by **50M+ users** across FinTech, HealthTech
 
 I'm a software engineer with **4+ years** of experience building products from zero to scale. My work spans **mobile** (Flutter, React Native) and **web** (React, Next.js, Angular) — with deep experience in **FinTech**, **HealthTech**, and **AI-powered systems**.
 
-I've led engineering efforts on apps used by **50M+ users** (JazzCash) and **5M+ users** (myABL), built enterprise platforms from scratch, and recently shipped an **autonomous AI agent** for job discovery using Python and agentic workflows.
+I've led engineering efforts at **[Visionet Systems](https://www.visionet.com/)** and **[Systems Limited](https://www.systemsltd.com/)**, delivering enterprise solutions for global clients. My portfolio includes apps used by **50M+ users** (JazzCash) and **5M+ users** (myABL), where I architected secure, high-performance systems from the ground up.
 
 **What I bring to the table:**
 - 🏗️ Architected mobile + web platforms at massive scale (JazzCash, myABL)
@@ -74,6 +74,8 @@ I've led engineering efforts on apps used by **50M+ users** (JazzCash) and **5M+
 
 Led native mobile development (Android/iOS) for the country's largest digital wallet serving **50M+ users**. Architected offline-first payments, biometric auth, and real-time transaction processing.
 
+<a href="https://play.google.com/store/apps/details?id=com.techlogix.mobilinkcustomer&hl=en"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="40"></a> <a href="https://apps.apple.com/pk/app/jazzcash-business/id1364503737"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" height="40"></a>
+
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 </td>
@@ -82,6 +84,8 @@ Led native mobile development (Android/iOS) for the country's largest digital wa
 **🤖 [JobAgent Pro — AI-Powered Job Discovery](https://github.com/suleman2244/job-agent-pro)**
 
 Autonomous AI agent that scrapes, analyzes, and ranks job opportunities using agentic workflows. Full-stack: React frontend + FastAPI backend, deployed on Vercel.
+
+<a href="https://job-agent-pro.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=vercel&logoColor=white" height="40"></a>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
@@ -94,6 +98,8 @@ Autonomous AI agent that scrapes, analyzes, and ranks job opportunities using ag
 
 Core contributor to Allied Bank's mobile banking platform. Implemented secure transaction flows, real-time notifications, and biometric authentication for millions of daily active users.
 
+<a href="https://play.google.com/store/apps/details?id=com.abl.mobile.banking&hl=en"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="40"></a> <a href="https://apps.apple.com/pk/app/myabl/id1040526729"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" height="40"></a>
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![BLoC](https://img.shields.io/badge/BLoC-01579B?style=flat-square&logoColor=white)
 
 </td>
@@ -103,11 +109,23 @@ Core contributor to Allied Bank's mobile banking platform. Implemented secure tr
 
 Enterprise AI chatbot that transforms natural language instructions into interactive visual design workflows. Built with Flutter, Riverpod, and Azure AD integration.
 
+<a href="#"><img src="https://img.shields.io/badge/Enterprise_Project-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" height="40"></a>
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Azure](https://img.shields.io/badge/Azure_AD-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-412991?style=flat-square&logoColor=white)
 
 </td>
 </tr>
 </table>
+
+---
+
+### Open Source Contributions
+
+I actively contribute to the developer community, focusing on **Flutter**, **React**, and **AI tooling**.
+
+- 🔭 **Maintained** enterprise-grade Flutter packages for internal banking frameworks
+- 🌱 **Contributor** to open-source UI libraries and state management tools
+- 💬 **Mentor** for junior developers at Visionet Systems on scalable architecture
 
 ---
 
