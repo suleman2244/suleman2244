@@ -74,7 +74,7 @@ I've led engineering efforts at **[Visionet Systems](https://www.visionet.com/)*
 
 Led native mobile development (Android/iOS) for the country's largest digital wallet serving **50M+ users**. Architected offline-first payments, biometric auth, and real-time transaction processing.
 
-<a href="https://play.google.com/store/apps/details?id=com.techlogix.mobilinkcustomer&hl=en"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="40"></a> <a href="https://apps.apple.com/pk/app/jazzcash-business/id1364503737"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" height="40"></a>
+<a href="https://play.google.com/store/apps/details?id=com.techlogix.mobilinkcustomer&hl=en"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="40"></a> <a href="https://apps.apple.com/il/app/jazzcash-your-mobile-account/id1224617688"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" height="40"></a>
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
