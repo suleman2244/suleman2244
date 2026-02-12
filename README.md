@@ -7,7 +7,7 @@
 Building high-scale systems trusted by **50M+ users** across FinTech, HealthTech, and AI.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salman-khan-1254761b5/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://job-agent-pro.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-kappa-three-u8on9e9b39.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sulamankhan54425@gmail.com)
 
 </div>
@@ -70,36 +70,40 @@ I've led engineering efforts on apps used by **50M+ users** (JazzCash) and **5M+
 <tr>
 <td width="50%">
 
-#### 🏦 [JazzCash — Pakistan's #1 Digital Wallet](https://github.com/suleman2244/jazzcash-case-study)
+**🏦 [JazzCash — Pakistan's #1 Digital Wallet](https://github.com/suleman2244/jazzcash-case-study)**
+
 Led native mobile development (Android/iOS) for the country's largest digital wallet serving **50M+ users**. Architected offline-first payments, biometric auth, and real-time transaction processing.
 
-`Kotlin` `Swift` `Java` `REST APIs` `Biometric Auth`
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 </td>
 <td width="50%">
 
-#### 🤖 [JobAgent Pro — AI-Powered Job Discovery](https://github.com/suleman2244/job-agent-pro)
+**🤖 [JobAgent Pro — AI-Powered Job Discovery](https://github.com/suleman2244/job-agent-pro)**
+
 Autonomous AI agent that scrapes, analyzes, and ranks job opportunities using agentic workflows. Full-stack: React frontend + FastAPI backend, deployed on Vercel.
 
-`Python` `FastAPI` `React` `Playwright` `AI Agents`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-#### 🏦 [myABL — Digital Banking for 5M+ Users](https://github.com/suleman2244/my-abl-mobile-app)
+**🏦 [myABL — Digital Banking for 5M+ Users](https://github.com/suleman2244/my-abl-mobile-app)**
+
 Core contributor to Allied Bank's mobile banking platform. Implemented secure transaction flows, real-time notifications, and biometric authentication for millions of daily active users.
 
-`Flutter` `Dart` `BLoC` `REST APIs` `FinTech`
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![BLoC](https://img.shields.io/badge/BLoC-01579B?style=flat-square&logoColor=white)
 
 </td>
 <td width="50%">
 
-#### 🧠 [Stitch AI — NLP-to-Design Workflows](https://github.com/suleman2244/stitch-ai-case-study)
+**🧠 [Stitch AI — NLP-to-Design Workflows](https://github.com/suleman2244/stitch-ai-case-study)**
+
 Enterprise AI chatbot that transforms natural language instructions into interactive visual design workflows. Built with Flutter, Riverpod, and Azure AD integration.
 
-`Flutter` `Riverpod` `Azure AD` `NLP` `Enterprise`
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Azure](https://img.shields.io/badge/Azure_AD-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-412991?style=flat-square&logoColor=white)
 
 </td>
 </tr>
@@ -109,12 +113,13 @@ Enterprise AI chatbot that transforms natural language instructions into interac
 
 ### Engineering Philosophy
 
-```
-→ Ship fast, learn faster. I believe in tight feedback loops and iterating in production.
-→ Own the outcome. I don't stop at code — I care about the user experience, the metrics, and the business impact.
-→ Build for scale. Every system I design is built to handle 10x the current load.
-→ Automate everything. If I'm doing it twice, I'm writing a script.
-```
+> **Ship fast, learn faster.** I believe in tight feedback loops and iterating in production.
+> 
+> **Own the outcome.** I don't stop at code — I care about the user experience, the metrics, and the business impact.
+> 
+> **Build for scale.** Every system I design is built to handle 10x the current load.
+> 
+> **Automate everything.** If I'm doing it twice, I'm writing a script.
 
 ---
 
